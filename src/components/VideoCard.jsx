@@ -1,9 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-const VideoCard = () => {
-  return (
-    <div>VideoCard</div>
-  )
-}
+// const VideoCard = () => {
+//   return (
+//     <div>VideoCard</div>
+//   )
+// }
 
-export default VideoCard
+// export default VideoCard
